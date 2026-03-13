@@ -40,13 +40,26 @@ I am actively seeking opportunities to apply my skills, contribute to security-f
 
 ## 📂 Project Structure
 ```
+## Project Structure
+
+```
 portfolio/
 │
-├── index.html              # Main portfolio webpage
-├── styles.css              # Website styling and layout
-├── script.js               # JavaScript for navigation and interactions
-├── Dhanasekaran_Resume.pdf # Downloadable resume
-└── README.md               # Project documentation
+├── index.html                 # Main portfolio webpage
+├── README.md                  # Project documentation
+│
+└── assets/
+    │
+    ├── css/
+    │   └── styles.css         # Website styling and layout
+    │
+    ├── js/
+    │   └── script.js          # JavaScript for navigation and interactions
+    │
+    └── files/                 # Resume & Certificate
+        
+```
+
 ```
 
 ---
