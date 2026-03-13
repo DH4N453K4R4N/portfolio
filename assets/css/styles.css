@@ -723,5 +723,8 @@ h4 {
   .skills-grid {
     grid-template-columns: minmax(0, 1fr);
   }
+  .contact-grid .social-links {
+    justify-content: center;
+  }
 }
 
