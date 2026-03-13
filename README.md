@@ -40,9 +40,6 @@ I am actively seeking opportunities to apply my skills, contribute to security-f
 
 ## 📂 Project Structure
 ```
-## Project Structure
-
-```
 portfolio/
 │
 ├── index.html                 # Main portfolio webpage
@@ -56,9 +53,7 @@ portfolio/
     ├── js/
     │   └── script.js          # JavaScript for navigation and interactions
     │
-    └── files/                 # Resume & Certificate
-        
-```
+    └── files/                 # Resume, Certificates and Report     
 
 ```
 
